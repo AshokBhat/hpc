@@ -1,4 +1,4 @@
-# Notes in WIKI format
+# HPC information in WIKI format
 
 See https://github.com/AshokBhat/hpc/wiki
 
